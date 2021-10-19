@@ -1,1 +1,1 @@
-# Type-Script-full-stact-project
+# Type-Script-full-stack-project
